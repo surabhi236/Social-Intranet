@@ -1,0 +1,26 @@
+{
+  "name": "login_portal",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^3.21.2",
+    "jade": "^1.11.0",
+    "mongoose": "*",
+    "nodemon": "*"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surabhi236/Social-Intranet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surabhi236/Social-Intranet/issues"
+  },
+  "homepage": "https://github.com/surabhi236/Social-Intranet#readme",
+  "description": ""
+}
